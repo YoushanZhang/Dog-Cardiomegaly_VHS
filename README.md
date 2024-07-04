@@ -7,7 +7,7 @@ This directory contains the datasets and evaluation methods of VHS for paper [Re
 If you have any questions, please email to youshan.zhang@yu.edu
 ### Reference
 
-If you find it is helpful, please cite it as:
+If you find it helpful, please cite it as:
 
 `
 Li, Jialu, and Youshan Zhang. "Regressive vision transformer for dog cardiomegaly assessment." Scientific Reports 14, no. 1 (2024): 1539.
@@ -46,24 +46,19 @@ Or in bibtex style:
 ### Evaluation
 To avoid tuning the model based on the test dataset, we also provide an application to automatically evaluate the performance of your prediction.
 
-1. You need to generate your prediction as a CSV file: [image_name, predicted labels]. We also uploaded a sample_results.csv for your reference.
-2. For Windows user, install Dog_X_ray_classfication_accuracy.exe. You may need to install Matlab R2021b (9.11) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Windows version).
+1. You need to generate your prediction as a CSV file: [image_name, predicted VHS]. We also uploaded a sample_results.csv for your reference.
+2. For Windows user, installDog_X-ray_VHS_Windows.exe. You may need to install Matlab R2021b (9.11) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Windows version).
 
-   For Mac user, unzip Dog_X_ray_classfication_accuracy.zip and then install Dog_X_ray_classfication_accuracy.app. You may need to install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
+3. For Mac user, unzip Dog_X_ray_classfication_accuracy.zip and then install Dog_X-ray_VHS_Mac.app. You may need to install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
 
-
-<p align="center">
-  <img src="./assts/App.png" width="50%"> 
-</p>
-<p align="center">Dog Cardiomegaly Assessment Accuracy software</p>
 
 4. Run Cow_teat_classfication_accuracy software to get your prediction accuracy
 
    I) Click on 'Open CSV File' 
    
-   II) Click on 'Calculate Accuracy'
+   II) Click on 'Calculate Error'
    
-   III) You will see the accuracy in the text area
+   III) You will see the MSE, MAE, MAPE and Accuracy in the text area
 
 
 <p align="center">
