@@ -66,8 +66,10 @@ To avoid tuning the model based on the test dataset, we also provide an applicat
    III) You will see the accuracy in the text area
 
 
-![UFSKFE_GH060066 results](./assts/dog_prediction_video.gif)
-<p align="center">Sample evluation process using Dog_X_ray_classfication_accuracy software </p>
+<p align="center">
+  <img src="./assts/Sample_re.png" width="50%"> 
+</p>
+<p align="center">Sample Dog Cardiomegaly VHS Measurement Results</p>
 
 
 
