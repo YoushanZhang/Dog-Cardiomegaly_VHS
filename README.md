@@ -41,7 +41,7 @@ Or in bibtex style:
 <p align="center">
   <img src="./assts/mse.png" width="70%"> 
 </p>
-<p align="center">MSE, MAE, MAPE and Accuracy</p>
+<p align="center">MSE, MAE, MAPE and Accuracy of different methods.</p>
 
 #### Note, this table contains some re-run experiments that the accuracy might be different from the R_Accuracy in the previous table.
 
