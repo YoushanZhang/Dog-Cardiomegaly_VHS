@@ -38,6 +38,13 @@ Or in bibtex style:
 <p align="center">Dog Cardiomegaly Assessment Accuracy</p>
 
 
+<p align="center">
+  <img src="./assts/mse.png" width="50%"> 
+</p>
+<p align="center">MSE, MAE, MAPE and Accuracy</p>
+
+#### Note, this table contains some re-run experiments that the accuracy might be different from the R_Accuracy in the previous table.
+
 ### Usage
 1. [Download the labeled training, validation, and unlabeled test dataset here.](https://yuad-my.sharepoint.com/:f:/g/personal/youshan_zhang_yu_edu/ErguFJBE4y9KqzEdWWNlXzMBkTbsBaNX9l856SyvQauwJg?e=hp9bY7) 
 2. Train the model with the labeled training dataset and validation dataset
