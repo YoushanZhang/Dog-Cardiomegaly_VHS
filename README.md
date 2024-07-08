@@ -39,7 +39,7 @@ Or in bibtex style:
 
 
 <p align="center">
-  <img src="./assts/mse.png" width="50%"> 
+  <img src="./assts/mse.png" width="70%"> 
 </p>
 <p align="center">MSE, MAE, MAPE and Accuracy</p>
 
