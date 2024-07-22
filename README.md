@@ -56,7 +56,7 @@ To avoid tuning the model based on the test dataset, we also provide an applicat
 1. You need to generate your prediction as a CSV file: [image_name, predicted VHS]. We also uploaded a sample_results.csv for your reference.
 2. For Windows user, installDog_X-ray_VHS_Windows.exe. You may need to install Matlab R2021b (9.11) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Windows version).
 
-3. For Mac user, unzip Dog_X_ray_classfication_accuracy.zip and then install Dog_X-ray_VHS_Mac.app. You may need to install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
+3. For Mac user, unzip Dog_X-ray_VHS_Mac.zip and then install Dog_X-ray_VHS_Mac.app. You may need to install R2022a (9.12) MCR [here](https://www.mathworks.com/products/compiler/matlab-runtime.html) (Mac version). 
 
 
 4. Run Cow_teat_classfication_accuracy software to get your prediction accuracy
